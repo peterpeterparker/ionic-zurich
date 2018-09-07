@@ -9,7 +9,7 @@ Slides about Stencil and OneSignal displayed at the [Ionic Zurich Meetup](https:
 * How does Stencil relate to the Ionic framework?
 * Stencil vs. other Frameworks (e.g. Angular Elements)
    
-Ken Blum, web developer at bbv Software Services AG in Zurich
+[Ken Blum](https://twitter.com/realKenBlum), web developer at bbv Software Services AG in Zurich
 
 ## Push Messages with Ionic and OneSignal
 
