@@ -1,8 +1,25 @@
-# Ionic Zurich - Stencil and OneSignal
+# Ionic Zurich
 
-Slides about Stencil and OneSignal displayed at the [Ionic Zurich Meetup](https://www.meetup.com/fr-FR/Ionic-Zurich/events/253486322/) the 6th September 2018
+Slides presented at the [Ionic Zurich Meetup](https://www.meetup.com/fr-FR/Ionic-Zurich)
 
-## Creating WebComponents with Stencil
+## 6th December 2018 - [Cypress.io & Vue.js](https://www.meetup.com/fr-FR/Ionic-Zurich/events/256667805/)
+
+### Intro to end-to-end testing with cypress.io and Ionic
+
+- e2e frameworks (TestCafe, Cypress, Protractor)
+- Why Cypress? (simplicity, time travel, automatic waiting, …)
+- How to add Cypress to your Ionic Project
+- Mocking hardware access
+
+[Ken Blum](https://twitter.com/realKenBlum), web developer at bbv Software Services AG in Zurich
+
+| PDF                      |
+| -------------------------- |
+| [End_to_end_testing_with_Cypress.pdf](End_to_end_testing_with_Cypress.pdf) |
+
+## 6th September 2018 - [Stencil & OneSignal](https://www.meetup.com/fr-FR/Ionic-Zurich/events/253486322/)
+
+### Creating WebComponents with Stencil
    
 * Why WebComponents / Stencil?
 * Show case (real project)
@@ -11,7 +28,11 @@ Slides about Stencil and OneSignal displayed at the [Ionic Zurich Meetup](https:
    
 [Ken Blum](https://twitter.com/realKenBlum), web developer at bbv Software Services AG in Zurich
 
-## Push Messages with Ionic and OneSignal
+| PDF                      |
+| -------------------------- |
+| [Stencil_The_reusable_web_component_compiler.pdf](Stencil_The_reusable_web_component_compiler.pdf) |
+
+### Push Messages with Ionic and OneSignal
 
 * What is OneSignal?
 * Pro & Cons
@@ -19,3 +40,7 @@ Slides about Stencil and OneSignal displayed at the [Ionic Zurich Meetup](https:
 * Client-Side code
 
 Philipp is Requirements Engineer at Credit Suisse. He codes (PHP, mySQL, Angular, Ionic) in his spare-time for fun and to keep up with trends in IT. Current project: https://iowya.com a web-app to store, share and track promises
+
+| PDF                      |
+| -------------------------- |
+| [Push-Messages_with_Ionic_and_OneSignal.pdf](Push-Messages_with_Ionic_and_OneSignal.pdf) |
