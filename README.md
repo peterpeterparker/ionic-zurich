@@ -1,6 +1,17 @@
 # Ionic Zurich
 
-Slides presented at the [Ionic Zurich Meetup](https://www.meetup.com/fr-FR/Ionic-Zurich)
+Slides presented at the [Ionic Zurich Meetup](https://www.meetup.com/fr-FR/Ionic-Zurich) and not available elsewhere 😉.
+
+## 21th December 2020 - [Ionic Zürich S03 E03 🎄](https://www.meetup.com/fr-FR/Ionic-Zurich/events/275123333/)
+
+* Apple Silicon & Ionic development. Should I upgrade?
+
+- [Meetup_Ionic_Apple_M1_Should_I-switch.pdf](Meetup_Ionic_Apple_M1_Should_I-switch.pdf)
+- [Handbrake_Comparison_M1_vs_i5.xlsx](Handbrake_Comparison_M1_vs_i5.xlsx)
+- [i5_vs_M1_Ionic_build.xslx](i5_vs_M1_Ionic_build.xlsx)
+- [M1_BigSur_App_Check.xslx](M1_BigSur_App_Check.xlsx)
+
+Philipp is Requirements Engineer at Credit Suisse. He codes (PHP, mySQL, Angular, Ionic) in his spare-time for fun and to keep up with trends in IT. Current project: https://iowya.com a web-app to store, share and track promises
 
 ## 21th March 2019 - [Quickies about Ionic v4](https://www.meetup.com/fr-FR/Ionic-Zurich/events/259476758/)
 
