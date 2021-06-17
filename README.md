@@ -2,6 +2,16 @@
 
 Slides presented at the [Ionic Zurich Meetup](https://www.meetup.com/fr-FR/Ionic-Zurich) and not available elsewhere 😉.
 
+## 17th June 2021 - [Ionic Zürich S04 E01 🚀](https://www.meetup.com/fr-FR/Ionic-Zurich/events/278704382/)
+
+* Bumpy road - The journey to my first app release
+
+Philipp Höhne. Scrum Master and Business Analyst at a major Swiss bank. Bloody amateur developer. Coding for fun when kids are in bed.
+
+| PDF                      |
+| -------------------------- |
+| [Meetup_Ionic_Bumpy_road_to_AppStore.pdf](Meetup_Ionic_Bumpy_road_to_AppStore.pdf) |
+
 ## 21th December 2020 - [Ionic Zürich S03 E03 🎄](https://www.meetup.com/fr-FR/Ionic-Zurich/events/275123333/)
 
 * Apple Silicon & Ionic development. Should I upgrade?
